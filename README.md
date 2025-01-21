@@ -33,3 +33,4 @@ Shows Dedication: A well-maintained portfolio demonstrates a developer’s commi
 Conclusion of the portfolio page -
 Creating a portfolio page is one of the best ways for developers to showcase their skills, experience, and passion for technology. By combining HTML and CSS, we created a simple, functional, and responsive website that helps developers stand out in a competitive job market. Whether you're just starting out or are a seasoned developer, having an online portfolio is an invaluable asset. The portfolio we built serves as a perfect foundation for any developer looking to make a positive impression online.
 OUTPUT OF THE BASIC PORTFOLIO WEBSITE:
+https://github.com/shruti-21099/CODTECH-BASIC_PORTFOLIO_WEBSITE-2/issues/1#issue-2802524810
